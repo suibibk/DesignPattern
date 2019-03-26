@@ -1,0 +1,8 @@
+结构型模式，共七种： 
+适配器模式(Adapter) 类的适配器  对象适配器 接口适配器
+装饰器模式(Decorator) IO
+代理模式(Proxy)  自己不会做，给别人做
+外观模式(Facade)  门面（电脑启动:CPU,内存，硬盘）
+桥接模式(Bridge)  数据库驱动
+组合模式(Composite)  二叉树
+享元模式(Flyweight)  数据库连接池
